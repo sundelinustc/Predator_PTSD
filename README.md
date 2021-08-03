@@ -1,5 +1,6 @@
 # Predator_PTSD
-## Title: Threat-induced anxiety during goal pursuit disrupts amygdala–prefrontal cortex connectivity in posttraumatic stress disorder
+## Title: 
+### Threat-induced anxiety during goal pursuit disrupts amygdala–prefrontal cortex connectivity in posttraumatic stress disorder
 ## Authors: Delin Sun, Andrea L. Gold, Chelsea A. Swanson, Courtney C. Haswell, Vanessa M. Brown, Daniel Stjepanovic, VA Mid-Atlantic MIRECC Workgroup, Kevin S. LaBar & Rajendra A. Morey 
 ## Publication: Translational Psychiatry volume 10, Article number: 61 (2020) 
 ## Doi: 10.1038/s41398-020-0739-4.
