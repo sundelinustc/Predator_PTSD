@@ -1,5 +1,5 @@
 # Predator_PTSD
-Sun, D. L., et al. (2020). "Threat-induced anxiety during goal pursuit disrupts amygdala-prefrontal cortex connectivity in posttraumatic stress disorder." Translational Psychiatry 10(1).
+Sun, D. L., et al. (2020). "Threat-induced anxiety during goal pursuit disrupts amygdala-prefrontal cortex connectivity in posttraumatic stress disorder." Translational Psychiatry 10(1):61. doi: 10.1038/s41398-020-0739-4.
 
 ## Abstract
 To investigate how unpredictable threat during goal pursuit impacts fronto-limbic activity and functional connectivity in posttraumatic stress disorder (PTSD), we compared military veterans with PTSD (n = 25) vs. trauma-exposed control (n = 25). Participants underwent functional magnetic resonance imaging (fMRI) while engaged in a computerized chase-and-capture game task that involved optimizing monetary rewards obtained from capturing virtual prey while simultaneously avoiding capture by virtual predators. The game was played under two alternating contexts—one involving exposure to unpredictable task-irrelevant threat from randomly occurring electrical shocks, and a nonthreat control condition. 
